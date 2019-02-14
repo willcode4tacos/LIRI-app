@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+.env
+keys.js
+test.js
+objFile.txt
+request.js
